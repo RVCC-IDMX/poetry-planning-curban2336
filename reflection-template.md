@@ -1,72 +1,40 @@
 # AI Collaboration Reflection
 
-**Student Name:** [Your name here]
-**Date Completed:** [YYYY-MM-DD]
+**Student Name:** [Christopher Urban]
+**Date Completed:** [2025-09-11]
 
 ## What worked well with AI
-
-**Your most successful AI interaction:**
-
-``` text
-[Describe one conversation that went really well. What made it effective? What did you learn from AI that was genuinely helpful?]
-```
 
 **How your prompting improved:**
 
 ``` text
-[Compare your first AI conversation to your last one. What did you do differently? What techniques worked best for getting useful responses?]
+[I found that asking specific questions, and even telling the AI what you want the answer to contain helped significantly. For example, asking not only what colors would work for a scheme, but to answer it with color codes and to consider accessibility when choosing.]
 ```
 
 **AI's best contributions:**
 
 ``` text
-[What was AI most helpful for? Creative ideas? Technical guidance? Something else? Give a specific example.]
+[It was a great technical guide, explaining specific questions I had and giving me copius details on what I asked about. This will undoubtedly be a great tool for confirming my work and getting a quick second opinion on decisions for my work.]
 ```
 
 ## Learning from limitations
 
-**One thing AI got wrong or missed:**
-
-``` text
-[Specific example of incorrect info, bias, or unhelpful complexity]
-```
-
-**Your workaround strategy:**
-
-``` text
-[How you dealt with this limitation]
-```
-
 **Advice for other students:**
 
 ``` text
-[One specific tip based on what you learned]
+[Be specific if you want short answers, or ask for them. Otherwise the AI will seemingly pull out all the stops and practically show you a 20 step process for every little detail of the answer. In its own way, that is useful, but not for every question you ask.]
 ```
 
 ## Ready for implementation?
 
-**Are you prepared to start coding your poetry website?** [Yes/No]
-
-**Why or why not?**
-
-``` text
-[Explain your confidence level. What aspects of the plan feel solid? What might still need work?]
-```
-
 **How will you use AI in the main Poetry project?**
 
 ``` text
-[Based on this experience, how will you approach AI collaboration when you start building your actual website? What will you do the same or differently?]
+[I will likely use the AI the same way I have been this whole time. If I get stuck and need quick help I will ask the AI. If I need a second opinion on something I will ask them. I might even ask the AI to give me the base coding layout to save time so my effort can be put more towards polishing the final result.]
 ```
 
 **Most important lesson learned:**
 
 ``` text
-[What's the single most valuable thing you learned about working with AI that you'll carry forward to future projects?]
-```
-
-**Public domain verification:**
-
-``` text
-[Confirm your final poem choice is actually public domain. If you discovered it wasn't during your research, explain how you found a replacement.]
+[AI has gotten better at explaining itself and even siting sources since I last used it. This will be pivotal for completing this and other coding projects. I can use this as a quick way of gathering sources and information quickly for the purpose of expediting my work speed.]
 ```
