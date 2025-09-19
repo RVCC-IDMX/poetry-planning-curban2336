@@ -29,4 +29,4 @@
 - Section to display user-submitted interpretations or comments
 
 ## Current Status
-[Update this as you progress]
+[Currently planning techical and aesthetic aspects of the project.]
