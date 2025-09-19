@@ -6,7 +6,7 @@
 - **Timeline:** [September 16th] to [End Date currently unknown]
 
 ## Technical Constraints
-- HTML5 and CSS3 only (no JavaScript)
+- HTML5 and CSS3 potentially JavaScript
 - Must be responsive (mobile-first approach)
 - WCAG AA accessibility compliance
 - Deploy to Netlify
